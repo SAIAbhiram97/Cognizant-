@@ -4,4 +4,4 @@ namespace FactoryMethodPattern.Documents
     {
         void Open();
     }
-}
+}   
